@@ -1,0 +1,2 @@
+# GraTekstowa
+Gra tekstowa
